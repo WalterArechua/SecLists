@@ -9,7 +9,6 @@ admin:adtomcat
 admin:advagrant
 admin:password
 admin:password1
-admin:password123
 admin:Password1
 admin:tomcat
 admin:vagrant
@@ -75,3 +74,4 @@ xampp:xampp
 server_admin:owaspbwa
 admin:owaspbwa
 demo:demo
+admin:password123
